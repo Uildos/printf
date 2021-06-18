@@ -6,7 +6,7 @@
 /*   By: usoares- <usoares-@student.42sp.org.br>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/06/05 22:58:48 by usoares-          #+#    #+#             */
-/*   Updated: 2021/06/15 16:22:22 by usoares-         ###   ########.fr       */
+/*   Updated: 2021/06/18 03:53:08 by usoares-         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -29,4 +29,4 @@ void ft_get_width_precision(const char *specs, t_tags *str_tags)
         }
         
     } 
-}
+} 
